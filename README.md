@@ -1,7 +1,7 @@
 # Tuan_portfolio
 Where to find my recent projects
 
-# Project 1: Movies Revenue Measurement: Project Overiew
+# [Project 1: Movies Revenue Measurement: Project Overiew](https://github.com/Code-Calligrapher/my_projects_files/blob/master/movies_revenues_in_France_2018.ipynb)
 * Create a tool a rank most profit movies in terms of revenue in France 2018
 * Load the dataset request on HTML
 * Convert dataset into a clean format
