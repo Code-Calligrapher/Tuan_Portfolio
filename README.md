@@ -10,3 +10,8 @@ Where to find my recent projects
 In this project, I have scraped cases about Covid-19 pandamic recorded over the world and rank the most sufferred countries amongst this pandemic last year.
 
 Given the available dataset, I also look up the impact of lockdown policy in reducing the number of cases and fatalities among four countries: India, the UK, Germany and Italy.
+
+# [Project 3: Air Quality Management](https://github.com/Code-Calligrapher/my_projects_files/blob/master/air_quality_management.ipynb)
+In this project, I analyzed the impact of four pollutants - SO2, NO2, ozone and PM2.5 and compare these levels to precribed annual standards.
+
+Also, given the dateset, identify the pattern of the most pollution intervals over the year which help the authorities can impose adjusted policies to reduce this phenomenon
