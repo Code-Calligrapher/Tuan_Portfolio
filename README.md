@@ -15,3 +15,6 @@ Given the available dataset, I also look up the impact of lockdown policy in red
 In this project, I analyzed the impact of four pollutants - SO2, NO2, ozone and PM2.5 and compare these levels to precribed annual standards.
 
 Also, given the dateset, identify the pattern of the most pollution intervals over the year which help the authorities can impose adjusted policies to reduce this phenomenon
+
+# [Project 4: Default Payment Classification](https://github.com/Code-Calligrapher/my_projects_files/blob/master/air_quality_management.ipynb)
+Find out the most influenced factors that would lead to the higher likelihood of payment default.
